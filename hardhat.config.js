@@ -32,7 +32,7 @@ module.exports = {
     gasReporter: {
         enabled: true,
         outputFile: "gas-report.txt",
-        noColors: true,
+        // noColors: true,
         currency: "USD",
         coinmarketcap: COINMARKET_CAP_API_KEY,
     }
